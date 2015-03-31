@@ -5,6 +5,8 @@ This note will not take effect unless the writer has the person's face in their 
 If the cause of death is written within the next 40 seconds of writing the person's name, it will happen.
 If the cause of death is not specified, the person will simply die of a heart attack." - Death Note wiki
 
+Public IP -45.55.130.175
+
 ####Features
  * Users can log their names associated with that user
   ```bash
@@ -27,7 +29,7 @@ telnet localhost 8124
 
 
 <html>
-      
+
   <a href="URL"><img src = http://i247.photobucket.com/albums/gg160/Mar_Mar_013/Death%20Note/Ryuk-1.jpg > </a>
 
 
