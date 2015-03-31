@@ -1,6 +1,3 @@
-# OceanApps
-Applications I am currently working on, while deploying to DigitalOcean
-
 #Death Noto#
 ###Based on the series#
 "The human whose name is written in this note shall die.
